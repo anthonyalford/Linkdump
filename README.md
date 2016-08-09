@@ -124,6 +124,7 @@
 * https://aws.amazon.com/blogs/developer/preview-the-python-serverless-microframework-for-aws/
 * https://medium.com/@tjholowaychuk/introducing-apex-800824ffaa70#.zg5xppjln
 * https://github.com/ember-fastboot/ember-fastboot-lambda
+* http://serverless.com/
 
 ## Static Sites
 * http://futurice.com/blog/cms-done-right-vol-3
