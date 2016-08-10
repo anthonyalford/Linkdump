@@ -7,6 +7,7 @@
 * https://businessofmessaging.com/chatbots-igniting-division-of-labour-in-ai-1430fcc85c8d#.7xjfbpk6d
 * https://www.motion.ai/
 * https://github.com/joshnewlan/say_what
+* http://www.thepennyhoarder.com/how-to-fight-a-parking-ticket-with-donotpay/
 
 
 ## Twitter
