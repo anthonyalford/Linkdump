@@ -59,6 +59,7 @@
 
 
 ## General ML
+* http://efavdb.com/
 * https://blog.dominodatalab.com/an-introduction-to-model-based-machine-learning/
 * http://fastml.com/bayesian-machine-learning/
 * https://developer.ibm.com/spark/blog/2016/02/22/predictive-model-for-online-advertising-using-spark-machine-learning-pipelines/
@@ -100,6 +101,7 @@
 
 
 ## Vision
+* http://arxiv.org/pdf/1608.03282v1.pdf
 * http://apassant.net/2015/05/14/album-covers-music-deep-learning/
 * http://scikit-learn.org/stable/auto_examples/applications/face_recognition.html#example-applications-face-recognition-py
 * https://github.com/teradeep/demo-apps/tree/master/generic-embedded
@@ -110,6 +112,8 @@
 
 
 ## Books/Resources
+* http://www.inferentialthinking.com/
+* http://datasciencemasters.org/
 * http://www.dataorienteddesign.com/dodmain/dodmain.html
 * http://www.scipy-lectures.org/
 * https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6
@@ -122,6 +126,7 @@
 * http://www.quantinsti.com/blog/introduction-zipline-python/
 
 ## Serverless
+* https://fmlnerd.com/2016/08/16/30k-page-views-for-0-21-a-serverless-story/
 * https://aws.amazon.com/blogs/developer/preview-the-python-serverless-microframework-for-aws/
 * https://medium.com/@tjholowaychuk/introducing-apex-800824ffaa70#.zg5xppjln
 * https://github.com/ember-fastboot/ember-fastboot-lambda
@@ -132,6 +137,10 @@
 * http://hubpress.io/
 
 ## Work
+* https://rework.withgoogle.com/
+* http://firstround.com/review/forget-technical-debt-heres-how-to-build-technical-wealth/
+* http://www.sonarqube.org/
+* http://engineeringblog.yelp.com/2016/08/undebt-how-we-refactored-3-million-lines-of-code.html
 * https://medium.com/xeneta/boosting-sales-with-machine-learning-fbcf2e618be3
 * https://medium.com/@johnaveri/monitorbook-from-side-project-to-profitable-company-a-journey-into-sales-3bed8a4b759c#.akb8qu9eq
 * https://cloudplatform.googleblog.com/2016/07/how-to-escape-lock-in-with-a-multi-cloud-stack.html
