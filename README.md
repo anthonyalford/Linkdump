@@ -111,6 +111,8 @@
 * https://medium.com/@samim/sensual-machines-82858b32a4e5
 * http://ladstatt.blogspot.com/2013/04/opencv-on-macosx-with-java-support.html
 
+## R examples
+* http://lucaspuente.github.io/notes/2016/09/01/Mapping_Traffic_Fatalities
 
 ## Books/Resources
 * http://www.inferentialthinking.com/
