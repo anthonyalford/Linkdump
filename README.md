@@ -140,6 +140,7 @@
 * http://hubpress.io/
 
 ## Work
+* http://jeremyaboyd.com/tricks-to-monetize-your-side-projects/
 * https://rework.withgoogle.com/
 * http://firstround.com/review/forget-technical-debt-heres-how-to-build-technical-wealth/
 * http://www.sonarqube.org/
