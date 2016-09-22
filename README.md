@@ -59,6 +59,7 @@
 
 
 ## General ML
+* http://scikit-learn.org/stable/tutorial/machine_learning_map/
 * https://karpathy.github.io/2015/05/21/rnn-effectiveness/
 * http://efavdb.com/
 * https://blog.dominodatalab.com/an-introduction-to-model-based-machine-learning/
