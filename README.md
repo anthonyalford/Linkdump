@@ -141,6 +141,7 @@
 * http://hubpress.io/
 
 ## Work
+* https://codingvc.com/how-to-de-risk-a-startup/
 * http://jeremyaboyd.com/tricks-to-monetize-your-side-projects/
 * https://rework.withgoogle.com/
 * http://firstround.com/review/forget-technical-debt-heres-how-to-build-technical-wealth/
@@ -164,6 +165,8 @@
 * https://training.kalzumeus.com/newsletters/archive/consulting_1?HN_repost
 
 ## Life
+* https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.5lbmpg5it
+* http://blog.dilbert.com/post/129784168866/the-persuasion-reading-list
 * http://blogs.scientificamerican.com/guest-blog/you-can-increase-your-intelligence-5-ways-to-maximize-your-cognitive-potential/
 * https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.px83jwxpu
 * http://shyal.com/blog/a-simple-mind-hack-that-helps-beat-procrastination
