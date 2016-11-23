@@ -2,6 +2,8 @@
 
 
 ## Chat Bots
+* https://cdn.ampproject.org/c/www.zdnet.com/google-amp/article/boomerang-launches-machine-learning-email-composition-tool-respondable/
+* https://www.dataquest.io/blog/apartment-finding-slackbot/
 * https://wit.ai/
 * https://medium.com/chat-bots/bots-hype-or-glory-656f4d614efb#.m7satawyg
 * https://businessofmessaging.com/chatbots-igniting-division-of-labour-in-ai-1430fcc85c8d#.7xjfbpk6d
@@ -51,19 +53,28 @@
 * http://www.arimorcos.com/blog/post/Mining%20my%20google%20search%20history%20for%20clues%2C%20Part%20I/
 
 
-## TensorFlow
+## TensorFlow/Deep
+* https://openai.com/blog/infrastructure-for-deep-learning/
 * http://googleresearch.blogspot.com/2016/02/running-your-models-in-production-with.html
 * https://github.com/tflearn/tflearn
 * https://databricks.com/blog/2016/01/25/deep-learning-with-spark-and-tensorflow.html
+* http://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/
+* http://phdp.github.io/posts/2015-07-13-srl-code.html
 
+## Matrix Factorization
+* https://tech.iheart.com/mapping-the-world-of-music-using-machine-learning-part-1-9a57fa67e366#.9vdd6jjad
 
+## Bayes
+* http://www.adaptiveagents.org/bayesian_control_rule
+* http://fastml.com/bayesian-machine-learning/
 
 ## General ML
+* http://minimaxir.com/2016/08/clickbait-cluster/ (Spark)
+* http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/
 * http://scikit-learn.org/stable/tutorial/machine_learning_map/
 * https://karpathy.github.io/2015/05/21/rnn-effectiveness/
 * http://efavdb.com/
 * https://blog.dominodatalab.com/an-introduction-to-model-based-machine-learning/
-* http://fastml.com/bayesian-machine-learning/
 * https://developer.ibm.com/spark/blog/2016/02/22/predictive-model-for-online-advertising-using-spark-machine-learning-pipelines/
 * http://stackoverflow.com/questions/34167105/using-spark-mls-onehotencoder-on-multiple-columns
 * http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/
@@ -83,11 +94,6 @@
 
 
 
-## deep walk
-* http://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/
-* http://phdp.github.io/posts/2015-07-13-srl-code.html
-
-
 ## Music
 * http://polygraph.cool/history/
 * http://www.benfrederickson.com/matrix-factorization/
@@ -103,6 +109,7 @@
 
 
 ## Vision
+* https://github.com/paarthneekhara/text-to-image
 * http://arxiv.org/pdf/1608.03282v1.pdf
 * http://apassant.net/2015/05/14/album-covers-music-deep-learning/
 * http://scikit-learn.org/stable/auto_examples/applications/face_recognition.html#example-applications-face-recognition-py
