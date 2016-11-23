@@ -148,6 +148,7 @@
 * http://hubpress.io/
 
 ## Work
+* https://www.indiehackers.com/businesses
 * https://codingvc.com/how-to-de-risk-a-startup/
 * http://jeremyaboyd.com/tricks-to-monetize-your-side-projects/
 * https://rework.withgoogle.com/
