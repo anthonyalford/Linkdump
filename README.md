@@ -123,6 +123,7 @@
 * http://lucaspuente.github.io/notes/2016/09/01/Mapping_Traffic_Fatalities
 
 ## Books/Resources
+* http://r4ds.had.co.nz/
 * http://www.inferentialthinking.com/
 * http://datasciencemasters.org/
 * http://www.dataorienteddesign.com/dodmain/dodmain.html
