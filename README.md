@@ -204,4 +204,10 @@
 * http://kevinlawler.com/streams
 * http://www.thepennyhoarder.com/sleep-study-guide/
 
+## Robot
+
+* https://www.sparkfun.com/products/9457
+* https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors/overview
+* http://www.dummies.com/computers/arduino/how-to-control-the-speed-of-a-dc-motor-with-the-arduino/
+* https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow?twitter=@bigdata
 
