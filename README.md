@@ -2,6 +2,9 @@
 
 
 ## Chat Bots
+* https://kilianvalkhof.com/2016/web/a-messenger-adventure-chatbot/
+* http://www.dslreports.com/shownews/Trim-The-Chat-Bot-That-Talks-to-Comcast-So-You-Dont-Have-To-138351
+* http://blog.jasonette.com/2016/01/17/build-a-slackbot-with-jasonette/
 * https://cdn.ampproject.org/c/www.zdnet.com/google-amp/article/boomerang-launches-machine-learning-email-composition-tool-respondable/
 * https://www.dataquest.io/blog/apartment-finding-slackbot/
 * https://wit.ai/
@@ -69,6 +72,9 @@
 * http://fastml.com/bayesian-machine-learning/
 
 ## General ML
+* https://jeffersonheard.github.io/2017/01/being-a-data-scientist-my-experience-and-toolset/
+* https://github.com/ZuzooVn/machine-learning-for-software-engineers
+* http://blog.algorithmia.com/introduction-machine-learning-developers/
 * http://minimaxir.com/2016/08/clickbait-cluster/ (Spark)
 * http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/
 * http://scikit-learn.org/stable/tutorial/machine_learning_map/
@@ -109,6 +115,8 @@
 
 
 ## Vision
+* https://research.googleblog.com/2016/09/announcing-youtube-8m-large-and-diverse.html
+* https://research.googleblog.com/2016/09/show-and-tell-image-captioning-open.html
 * https://github.com/paarthneekhara/text-to-image
 * http://arxiv.org/pdf/1608.03282v1.pdf
 * http://apassant.net/2015/05/14/album-covers-music-deep-learning/
@@ -134,6 +142,7 @@
 * http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ufldl
 
 ## Quant
+* http://wiki.quantsoftware.org/index.php?title=QuantSoftware_ToolKit
 * http://robotwealth.com/machine-learning-financial-prediction-david-aronson/
 * http://www.quantinsti.com/blog/introduction-zipline-python/
 
@@ -149,7 +158,15 @@
 * http://hubpress.io/
 
 ## Work
+* http://www.deepsouthventures.com/build-a-side-business/
+* https://mattermark.com/the-one-method-ive-used-to-eliminate-bad-tech-hires/
+* https://www.enterpriseready.io/
+* https://codingvc.com/how-to-use-thought-experiments-to-de-risk-your-startup/
+* https://stackshare.io/posts/top-developer-tools-2016
+* https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe
 * https://www.indiehackers.com/businesses
+* https://www.indiehackers.com/businesses/instapainting
+* https://blog.oldgeekjobs.com/from-google-form-to-1000-in-revenue-in-one-month-3f5cd75b6089#.stc1jr407
 * https://codingvc.com/how-to-de-risk-a-startup/
 * http://jeremyaboyd.com/tricks-to-monetize-your-side-projects/
 * https://rework.withgoogle.com/
@@ -174,6 +191,7 @@
 * https://training.kalzumeus.com/newsletters/archive/consulting_1?HN_repost
 
 ## Life
+* https://alexvermeer.com/life-hacking/
 * https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.5lbmpg5it
 * http://blog.dilbert.com/post/129784168866/the-persuasion-reading-list
 * http://blogs.scientificamerican.com/guest-blog/you-can-increase-your-intelligence-5-ways-to-maximize-your-cognitive-potential/
