@@ -158,6 +158,7 @@
 * http://hubpress.io/
 
 ## Work
+* https://www.devmarketingguide.com/
 * http://www.deepsouthventures.com/build-a-side-business/
 * https://mattermark.com/the-one-method-ive-used-to-eliminate-bad-tech-hires/
 * https://www.enterpriseready.io/
