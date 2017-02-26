@@ -2,6 +2,12 @@
 
 
 ## Chat Bots
+* http://blog.zikes.me/post/how-i-ruined-office-productivity-with-a-slack-bot/
+* https://github.com/idoco/intergram
+* https://github.com/botpress/botpress
+* https://www.intercom.com/
+* https://www.helpsocial.com/
+* https://www.messagebird.com/en-us/chat-api
 * https://kilianvalkhof.com/2016/web/a-messenger-adventure-chatbot/
 * http://www.dslreports.com/shownews/Trim-The-Chat-Bot-That-Talks-to-Comcast-So-You-Dont-Have-To-138351
 * http://blog.jasonette.com/2016/01/17/build-a-slackbot-with-jasonette/
@@ -192,6 +198,9 @@
 * https://training.kalzumeus.com/newsletters/archive/consulting_1?HN_repost
 
 ## Life
+* https://digital-photography-school.com/megapost-learning-how-to-use-your-first-dslr/
+* https://www.gwern.net/Spaced%20repetition
+* http://quietkit.com/
 * https://alexvermeer.com/life-hacking/
 * https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.5lbmpg5it
 * http://blog.dilbert.com/post/129784168866/the-persuasion-reading-list
