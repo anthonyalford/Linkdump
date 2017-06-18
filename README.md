@@ -1,5 +1,11 @@
 # Linkdump
 
+## Serverless
+* https://fmlnerd.com/2016/08/16/30k-page-views-for-0-21-a-serverless-story/
+* https://aws.amazon.com/blogs/developer/preview-the-python-serverless-microframework-for-aws/
+* https://medium.com/@tjholowaychuk/introducing-apex-800824ffaa70#.zg5xppjln
+* https://github.com/ember-fastboot/ember-fastboot-lambda
+* http://serverless.com/
 
 ## Chat Bots
 * http://blog.zikes.me/post/how-i-ruined-office-productivity-with-a-slack-bot/
@@ -49,6 +55,7 @@
 
 
 ## Document/Text
+* http://ahmedbesbes.com/how-to-mine-newsfeed-data-and-extract-interactive-insights-in-python.html
 * http://opensourceconnections.com/blog/2016/03/29/semantic-search-with-latent-semantic-analysis/
 * http://awaisathar.github.io/lda.js/
 * https://github.com/primaryobjects/lda
@@ -60,15 +67,6 @@
 * http://rare-technologies.com/word2vec-tutorial/
 * https://blog.lateral.io/2015/05/leveraging-machine-learning-to-discover-research/
 * http://www.arimorcos.com/blog/post/Mining%20my%20google%20search%20history%20for%20clues%2C%20Part%20I/
-
-
-## TensorFlow/Deep
-* https://openai.com/blog/infrastructure-for-deep-learning/
-* http://googleresearch.blogspot.com/2016/02/running-your-models-in-production-with.html
-* https://github.com/tflearn/tflearn
-* https://databricks.com/blog/2016/01/25/deep-learning-with-spark-and-tensorflow.html
-* http://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/
-* http://phdp.github.io/posts/2015-07-13-srl-code.html
 
 ## Matrix Factorization
 * https://tech.iheart.com/mapping-the-world-of-music-using-machine-learning-part-1-9a57fa67e366#.9vdd6jjad
@@ -133,8 +131,12 @@
 * https://medium.com/@samim/sensual-machines-82858b32a4e5
 * http://ladstatt.blogspot.com/2013/04/opencv-on-macosx-with-java-support.html
 
-## R examples
+## Maps and Real Estate
+* http://sashat.me/
 * http://lucaspuente.github.io/notes/2016/09/01/Mapping_Traffic_Fatalities
+* http://urbanspatialanalysis.com/portfolio/predicting-gentrification-using-longitudinal-census-data/
+* http://www.wanhala.net/post/156484186523/figuring-out-the-best-place-to-live-in-helsinki
+
 
 ## Books/Resources
 * http://r4ds.had.co.nz/
@@ -148,22 +150,58 @@
 * http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ufldl
 
 ## Quant
+* https://medium.com/@kacawi/python-for-finance-algorithmic-trading-60fdfb9bb20d
+* https://www.kaggle.com/benjibb/lstm-stock-prediction-20170507
+* http://cs229.stanford.edu/proj2012/BernalFokPidaparthi-FinancialMarketTimeSeriesPredictionwithRecurrentNeural.pdf
+* https://github.com/BenjiKCF/Neural-Network-with-Financial-Time-Series-Data
+* https://www.bloomberg.com/news/articles/2017-04-09/lopsided-stocks-and-the-math-explaining-active-manager-futility
+* https://ntguardian.wordpress.com/2017/03/27/introduction-stock-market-data-r-1/
 * http://wiki.quantsoftware.org/index.php?title=QuantSoftware_ToolKit
 * http://robotwealth.com/machine-learning-financial-prediction-david-aronson/
 * http://www.quantinsti.com/blog/introduction-zipline-python/
+* https://news.ycombinator.com/item?id=13613826
 
-## Serverless
-* https://fmlnerd.com/2016/08/16/30k-page-views-for-0-21-a-serverless-story/
-* https://aws.amazon.com/blogs/developer/preview-the-python-serverless-microframework-for-aws/
-* https://medium.com/@tjholowaychuk/introducing-apex-800824ffaa70#.zg5xppjln
-* https://github.com/ember-fastboot/ember-fastboot-lambda
-* http://serverless.com/
+
 
 ## Static Sites
 * http://futurice.com/blog/cms-done-right-vol-3
 * http://hubpress.io/
 
+## TensorFlow/Deep
+* https://github.com/samdeeplearning/The-Terrible-Deep-Learning-List
+* http://blog.echen.me/2017/05/30/exploring-lstms/
+* https://github.com/jostmey/NakedTensor?bare
+* https://openai.com/blog/infrastructure-for-deep-learning/
+* http://googleresearch.blogspot.com/2016/02/running-your-models-in-production-with.html
+* https://github.com/tflearn/tflearn
+* https://databricks.com/blog/2016/01/25/deep-learning-with-spark-and-tensorflow.html
+* http://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/
+* http://phdp.github.io/posts/2015-07-13-srl-code.html
+
+
+## New Ideas
+* https://medium.com/@NathanBenaich/6-areas-of-artificial-intelligence-to-watch-closely-673d590aa8aa#.74psrjovb
+* http://aiimpacts.org/concrete-ai-tasks-for-forecasting/
+* https://medium.com/nanonets/nanonets-how-to-use-deep-learning-when-you-have-limited-data-f68c0b512cab#.8v7n7ycx4
+* https://scottlocklin.wordpress.com/2016/12/05/predicting-with-confidence-the-best-machine-learning-idea-you-never-heard-of/
+
+## Reinforcement Learning
+* https://www.dynamicyield.com/2015/02/contextual-bandit-optimization/
+* https://getstream.io/blog/introduction-contextual-bandits/
+* https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-1-5-contextual-bandits-bff01d1aad9c
+* http://janhuenermann.com/projects/learning-to-drive
+* https://arxiv.org/abs/1701.07274
+
+
 ## Work
+* https://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto
+* http://www.defmacro.org/2014/10/03/engman.html
+* http://www.businessinsider.com/jeff-bezos-explains-the-perfect-way-to-make-risky-business-decisions-2017-4
+* https://medium.com/hacker-daily/the-mvp-is-dead-long-live-the-rat-233d5d16ab02
+* https://rare-technologies.com/rrp-2-john-d-cook-consulting/
+* https://launch.gust.com/blog/why-startup-delaware-c-corporation
+* https://www.nateberkopec.com/blog/2017/03/10/how-i-made-self-publishing-about-ruby-on-rails.html
+* https://medium.com/@dunjalazic/10-cold-email-tips-i-used-to-get-60-000-app-signups-dd928d86ca21#.ixwa828ms
 * https://www.devmarketingguide.com/
 * http://www.deepsouthventures.com/build-a-side-business/
 * https://mattermark.com/the-one-method-ive-used-to-eliminate-bad-tech-hires/
@@ -198,6 +236,8 @@
 * https://training.kalzumeus.com/newsletters/archive/consulting_1?HN_repost
 
 ## Life
+* https://www.producthunt.com/@naval/collections/naval-s-book-recommendations
+* http://www.chesstactics.org/
 * https://digital-photography-school.com/megapost-learning-how-to-use-your-first-dslr/
 * https://www.gwern.net/Spaced%20repetition
 * http://quietkit.com/
