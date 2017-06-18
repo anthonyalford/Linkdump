@@ -139,6 +139,7 @@
 
 
 ## Books/Resources
+* https://www.springboard.com/blog/data-science-process/
 * http://r4ds.had.co.nz/
 * http://www.inferentialthinking.com/
 * http://datasciencemasters.org/
