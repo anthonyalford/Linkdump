@@ -151,6 +151,12 @@
 * http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ufldl
 
 ## Quant
+* https://news.ycombinator.com/user?id=SirLJ
+* https://github.com/kh-kim/stock_market_reinforcement_learning
+* http://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/
+* https://stackoverflow.com/questions/32514704/keras-lstm-time-series
+* https://www.quantstart.com/successful-algorithmic-trading-ebook
+* http://blog.ayoungprogrammer.com/2017/05/stocks-with-outperform-ratings-beats-market.html/
 * https://medium.com/@kacawi/python-for-finance-algorithmic-trading-60fdfb9bb20d
 * https://www.kaggle.com/benjibb/lstm-stock-prediction-20170507
 * http://cs229.stanford.edu/proj2012/BernalFokPidaparthi-FinancialMarketTimeSeriesPredictionwithRecurrentNeural.pdf
@@ -195,6 +201,9 @@
 
 
 ## Work
+* https://insimpleterms.blog/2017/08/07/the-tech-leads-new-project-checklist/
+* https://itsyourturnblog.com/introductory-bullshit-detection-for-non-technical-managers-7c7a9e54afee
+* http://blog.triplebyte.com/how-to-interview-engineers
 * https://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto
 * http://www.defmacro.org/2014/10/03/engman.html
 * http://www.businessinsider.com/jeff-bezos-explains-the-perfect-way-to-make-risky-business-decisions-2017-4
