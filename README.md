@@ -193,6 +193,7 @@
 * https://scottlocklin.wordpress.com/2016/12/05/predicting-with-confidence-the-best-machine-learning-idea-you-never-heard-of/
 
 ## Reinforcement Learning
+* https://github.com/songrotek/DDPG
 * https://www.dynamicyield.com/2015/02/contextual-bandit-optimization/
 * https://getstream.io/blog/introduction-contextual-bandits/
 * https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-1-5-contextual-bandits-bff01d1aad9c
@@ -201,6 +202,7 @@
 
 
 ## Work
+* https://mldatageek.herokuapp.com/questions/tags:amazon/
 * https://insimpleterms.blog/2017/08/07/the-tech-leads-new-project-checklist/
 * https://itsyourturnblog.com/introductory-bullshit-detection-for-non-technical-managers-7c7a9e54afee
 * http://blog.triplebyte.com/how-to-interview-engineers
