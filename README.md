@@ -76,6 +76,7 @@
 * http://fastml.com/bayesian-machine-learning/
 
 ## General ML
+* https://github.com/likedan/Awesome-CoreML-Models
 * https://jeffersonheard.github.io/2017/01/being-a-data-scientist-my-experience-and-toolset/
 * https://github.com/ZuzooVn/machine-learning-for-software-engineers
 * http://blog.algorithmia.com/introduction-machine-learning-developers/
@@ -139,6 +140,7 @@
 
 
 ## Books/Resources
+* https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
 * https://www.springboard.com/blog/data-science-process/
 * http://r4ds.had.co.nz/
 * http://www.inferentialthinking.com/
@@ -175,6 +177,10 @@
 * http://hubpress.io/
 
 ## TensorFlow/Deep
+* https://github.com/farizrahman4u/seq2seq
+* https://chunml.github.io/ChunML.github.io/project/Sequence-To-Sequence/
+* https://github.com/vahidk/EffectiveTensorflow
+* https://github.com/astorfi/TensorFlow-World
 * https://github.com/samdeeplearning/The-Terrible-Deep-Learning-List
 * http://blog.echen.me/2017/05/30/exploring-lstms/
 * https://github.com/jostmey/NakedTensor?bare
