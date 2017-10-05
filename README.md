@@ -173,6 +173,7 @@
 
 
 ## Static Sites
+* https://fillmem.com/post/fast-secured-and-free-static-site/
 * http://futurice.com/blog/cms-done-right-vol-3
 * http://hubpress.io/
 
