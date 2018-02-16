@@ -76,6 +76,7 @@
 * http://fastml.com/bayesian-machine-learning/
 
 ## General ML
+* http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html
 * https://github.com/likedan/Awesome-CoreML-Models
 * https://jeffersonheard.github.io/2017/01/being-a-data-scientist-my-experience-and-toolset/
 * https://github.com/ZuzooVn/machine-learning-for-software-engineers
@@ -255,6 +256,8 @@
 * https://training.kalzumeus.com/newsletters/archive/consulting_1?HN_repost
 
 ## Life
+* http://www.sciencedirect.com/science/article/pii/S004269890900282X
+* http://www.glassesoff.com/
 * https://www.producthunt.com/@naval/collections/naval-s-book-recommendations
 * http://www.chesstactics.org/
 * https://digital-photography-school.com/megapost-learning-how-to-use-your-first-dslr/
