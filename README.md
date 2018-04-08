@@ -154,6 +154,7 @@
 * http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ufldl
 
 ## Quant
+* https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/`
 * https://news.ycombinator.com/user?id=SirLJ
 * https://github.com/kh-kim/stock_market_reinforcement_learning
 * http://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/
@@ -261,6 +262,7 @@
 * https://training.kalzumeus.com/newsletters/archive/consulting_1?HN_repost
 
 ## Life
+* https://kottke.org/18/02/how-to-get-yourself-out-of-a-funk
 * http://www.sciencedirect.com/science/article/pii/S004269890900282X
 * http://www.glassesoff.com/
 * https://www.producthunt.com/@naval/collections/naval-s-book-recommendations
