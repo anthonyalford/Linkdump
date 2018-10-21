@@ -140,7 +140,31 @@
 * http://www.wanhala.net/post/156484186523/figuring-out-the-best-place-to-live-in-helsinki
 
 
-## Books/Resources
+## Books/Resources/Tools
+* http://justinhileman.info/article/git-pretty/git-pretty.png
+* https://ndpsoftware.com/git-cheatsheet.html
+* https://github.com/BurntSushi/xsv
+* http://tools.google.com/seedbank/
+* https://apps.ankiweb.net/
+* https://otexts.org/fpp2/
+* https://bigmachine.io/products/the-imposters-handbook/
+* http://physics.bu.edu/~pankajm/MLnotebooks.html
+* https://www.bayesserver.com/docs/introduction/bayesian-networks
+* http://explained.ai/matrix-calculus/index.html
+* https://khanna.cc/blog/structuring-deep-learning-projects/
+* http://web.mit.edu/tslvr/www/lessons_two_years.html
+* https://github.com/ericmjl/bayesian-analysis-recipes
+* https://modelzoo.co/
+* https://medium.com/acing-ai/acing-ai-interviews/home
+* https://developers.google.com/machine-learning/crash-course/
+* https://christophm.github.io/interpretable-ml-book/
+* http://blog.varunajayasiri.com/ml/tf_for_beginners.html
+* https://insidebigdata.com/2017/11/27/best-of-arxiv-for-machine-learning-february-2016/
+* https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7
+* https://unsupervisedpandas.com/data-science/docker-for-data-science/
+* https://aws.amazon.com/about-aws/whats-new/2017/12/support-for-apache-spark-2_2_1-with-amazon-sagemaker-integration-and-apache-hive-2_3_2-on-amazon-emr-release-5_11_0/
+* http://dawn.cs.stanford.edu/
+* https://modeldepot.io/
 * https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
 * https://www.springboard.com/blog/data-science-process/
 * http://r4ds.had.co.nz/
@@ -180,6 +204,20 @@
 * http://hubpress.io/
 
 ## TensorFlow/Deep
+* https://hanxiao.github.io/2018/01/10/Build-Cross-Lingual-End-to-End-Product-Search-using-Tensorflow/
+* https://aws.amazon.com/blogs/machine-learning/zocdoc-builds-patient-confidence-using-tensorflow-on-aws/
+* https://medium.com/@aldamiz/how-we-grew-from-0-to-4-million-women-on-our-fashion-app-with-a-vertical-machine-learning-approach-f8b7fc0a89d7
+* https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/
+* http://bugtriage.mybluemix.net/
+* http://akosiorek.github.io/ml/2018/03/14/what_is_wrong_with_vaes.html
+* https://towardsdatascience.com/memory-attention-sequences-37456d271992
+* https://deepmind.com/blog/differentiable-neural-computers/
+* https://www.facebook.com/yann.lecun/posts/10155003011462143
+* https://github.com/higgsfield/Capsule-Network-Tutorial
+* https://blog.acolyer.org/2018/01/12/one-model-to-learn-them-all/
+* https://github.com/tensorflow/tensor2tensor
+* https://github.com/explosion/spaCy/tree/master/examples/keras_parikh_entailment
+* https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b
 * https://github.com/farizrahman4u/seq2seq
 * https://chunml.github.io/ChunML.github.io/project/Sequence-To-Sequence/
 * https://github.com/vahidk/EffectiveTensorflow
@@ -202,6 +240,9 @@
 * https://scottlocklin.wordpress.com/2016/12/05/predicting-with-confidence-the-best-machine-learning-idea-you-never-heard-of/
 
 ## Reinforcement Learning
+* https://github.com/suragnair/alpha-zero-general
+* https://davidbarber.github.io/blog/2017/11/07/Learning-From-Scratch-by-Thinking-Fast-and-Slow-with-Deep-Learning-and-Tree-Search/
+* https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188
 * https://github.com/songrotek/DDPG
 * https://www.dynamicyield.com/2015/02/contextual-bandit-optimization/
 * https://getstream.io/blog/introduction-contextual-bandits/
@@ -209,8 +250,38 @@
 * http://janhuenermann.com/projects/learning-to-drive
 * https://arxiv.org/abs/1701.07274
 
+## GDPR
+* http://danlebrero.com/2018/04/11/kafka-gdpr-event-sourcing/
+* https://www.kdnuggets.com/2018/03/gdpr-machine-learning-illegal.html
+* https://www.elastic.co/blog/gdpr-personal-data-pseudonymization-part-1
+* https://www.linkedin.com/pulse/nightmare-letter-subject-access-request-under-gdpr-karbaliotis/
+* https://segment.com/blog/secure-access-to-100-aws-accounts/
+
+## Mgmt
+* https://news.greylock.com/the-only-metric-that-matters-now-with-fancy-slides-232474cf414c
+* https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0
+* https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/
+* https://jvns.ca/blog/senior-engineer/
+* https://sback.it/publications/icse2018seip.pdf
+* https://hecate.co/blog/code-review-review-is-the-managers-job
+* http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/
+* https://www.enterpriseready.io/#features
+* http://diytoolkit.org/tools/
+* https://www.linkedin.com/pulse/5-simple-strategies-help-you-better-leader-today-john-eades
+* https://engineering.gusto.com/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers/
+* https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/preview#heading=h.pdmqf3646hgt
+* https://blog.insightdatascience.com/moving-towards-managing-ai-products-5268c5e9ecf2
+* http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions
+* https://www.darpa.mil/work-with-us/heilmeier-catechism
+* https://getweeklyupdate.com/manager-guide
+* https://www.gainsight.com/2017/08/04/ceos-guide-measuring-customers/
 
 ## Work
+* https://www.fivecastfinancial.com/guides/financial-modeling-for-startups-an-introduction/
+* https://news.ycombinator.com/item?id=16922538
+* https://threadreaderapp.com/thread/1002103360646823936.html
+* http://justinmares.com/the-4-kinds-of-side-businesses-you-can-start/
+* https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/the-economics-of-artificial-intelligence
 * https://charemza.name/blog/posts/methodologies/testing/questions-to-ask-yourself-when-writing-tests/
 * http://matt-welsh.blogspot.com/2016/03/everything-i-did-wrong-as-professor.html
 * https://www.atlassian.com/team-playbook
@@ -284,7 +355,22 @@
 * http://www.thepennyhoarder.com/sleep-study-guide/
 
 ## Robot
-
+* https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/
+* https://modeldepot.github.io/tfjs-yolo-tiny-demo/
+* http://sonic-pi.net/
+* https://www.theseus.fi/bitstream/handle/10024/126220/Krasheninnikov_Dmitrii.pdf?sequence=1&isAllowed=y
+* https://arxiv.org/pdf/1712.08644.pdf
+* https://medium.com/ml-everything/offline-object-detection-and-tracking-on-a-raspberry-pi-fddb3bde130
+* https://github.com/experiencor/self-driving-toy-car
+* https://www.gadgetdaily.xyz/control-your-raspberry-pi-robot-from-a-web-connected-device/
+* http://niltoid.com/blog/raspberry-pi-arduino-tornado/
+* https://github.com/jakesgordon/javascript-racer/
+* https://medium.com/nanonets/how-to-easily-detect-objects-with-deep-learning-on-raspberrypi-225f29635c74
+* http://bair.berkeley.edu/blog/2017/11/30/model-based-rl/
+* https://blog.algorithmia.com/deep-dive-into-object-detection-with-open-images-using-tensorflow/
+* https://www.makeartwithpython.com/blog/poor-mans-deep-learning-camera/
+* https://www.byu.io/2017/12/07/counting-people-with-ml
+* https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/
 * https://www.sparkfun.com/products/9457
 * https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors/overview
 * http://www.dummies.com/computers/arduino/how-to-control-the-speed-of-a-dc-motor-with-the-arduino/
