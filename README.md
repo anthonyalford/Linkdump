@@ -134,6 +134,7 @@
 * http://ladstatt.blogspot.com/2013/04/opencv-on-macosx-with-java-support.html
 
 ## Maps and Real Estate
+* https://janakiev.com/blog/osm-predict-economic-indicators/
 * http://sashat.me/
 * http://lucaspuente.github.io/notes/2016/09/01/Mapping_Traffic_Fatalities
 * http://urbanspatialanalysis.com/portfolio/predicting-gentrification-using-longitudinal-census-data/
