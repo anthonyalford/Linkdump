@@ -142,6 +142,7 @@
 
 
 ## Books/Resources/Tools
+* http://guidetodatamining.com/
 * http://justinhileman.info/article/git-pretty/git-pretty.png
 * https://ndpsoftware.com/git-cheatsheet.html
 * https://github.com/BurntSushi/xsv
@@ -356,6 +357,8 @@
 * http://www.thepennyhoarder.com/sleep-study-guide/
 
 ## Robot
+* https://gitlab.com/NickBusey/HomelabOS
+* https://github.com/felipessalvatore/self_driving_pi_car
 * https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/
 * https://modeldepot.github.io/tfjs-yolo-tiny-demo/
 * http://sonic-pi.net/
