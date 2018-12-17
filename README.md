@@ -262,6 +262,10 @@
 * https://segment.com/blog/secure-access-to-100-aws-accounts/
 
 ## Mgmt
+* https://blog.danslimmon.com/2017/10/
+* https://anaxi.com/blog/2018/11/25/do-not-measure-developers-measure-projects/
+* https://www.artofwork.co/job-interviewing
+* https://stripe.com/atlas/guides/scaling-eng
 * https://news.greylock.com/the-only-metric-that-matters-now-with-fancy-slides-232474cf414c
 * https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0
 * https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/
