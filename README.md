@@ -142,6 +142,8 @@
 
 
 ## Books/Resources/Tools
+* https://hackernoon.com/rare-datasets-for-computer-vision-every-machine-learning-expert-must-work-with-2ddaf52ad862
+* https://github.com/GokuMohandas/practicalAI
 * http://guidetodatamining.com/
 * http://justinhileman.info/article/git-pretty/git-pretty.png
 * https://ndpsoftware.com/git-cheatsheet.html
