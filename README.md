@@ -262,6 +262,8 @@
 * https://segment.com/blog/secure-access-to-100-aws-accounts/
 
 ## Mgmt
+* https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d
+* https://blog.usejournal.com/rethinking-how-we-interview-in-microsofts-developer-division-8f404cfd075a
 * https://blog.danslimmon.com/2017/10/
 * https://anaxi.com/blog/2018/11/25/do-not-measure-developers-measure-projects/
 * https://www.artofwork.co/job-interviewing
