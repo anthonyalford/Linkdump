@@ -107,6 +107,7 @@
 
 
 ## Music
+* https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8
 * http://polygraph.cool/history/
 * http://www.benfrederickson.com/matrix-factorization/
 * http://matthiasmauch.de/_pdf/MauchEtAl_EvolutionPopUSA1960-2010.pdf
