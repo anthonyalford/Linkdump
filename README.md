@@ -55,6 +55,7 @@
 
 
 ## Document/Text
+* https://github.com/zalandoresearch/flair
 * http://ahmedbesbes.com/how-to-mine-newsfeed-data-and-extract-interactive-insights-in-python.html
 * http://opensourceconnections.com/blog/2016/03/29/semantic-search-with-latent-semantic-analysis/
 * http://awaisathar.github.io/lda.js/
