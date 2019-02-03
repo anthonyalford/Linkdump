@@ -265,6 +265,9 @@
 * https://segment.com/blog/secure-access-to-100-aws-accounts/
 
 ## Mgmt
+* https://circleci.com/blog/what-we-ve-learned-about-hiring-engineering-managers/
+* https://queue.acm.org/detail.cfm?id=3308563
+* http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course
 * https://www.ckmadvisors.com/blog/post/28/
 * https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d
 * https://blog.usejournal.com/rethinking-how-we-interview-in-microsofts-developer-division-8f404cfd075a
