@@ -144,6 +144,7 @@
 
 
 ## Books/Resources/Tools
+* https://mixmastamyk.bitbucket.io/pro_soft_dev/index.html
 * https://paperswithcode.com/
 * https://hackernoon.com/rare-datasets-for-computer-vision-every-machine-learning-expert-must-work-with-2ddaf52ad862
 * https://github.com/GokuMohandas/practicalAI
