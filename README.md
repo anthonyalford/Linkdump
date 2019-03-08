@@ -143,6 +143,14 @@
 * http://www.wanhala.net/post/156484186523/figuring-out-the-best-place-to-live-in-helsinki
 
 
+## Jupyter
+https://nextjournal.com/schmudde/how-to-version-control-jupyter
+https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks
+https://github.com/jupyter/nbdime
+https://github.com/mwouts/jupytext
+https://github.com/minodes/pynb
+
+
 ## Books/Resources/Tools
 * http://themlbook.com/wiki/doku.php
 * https://mixmastamyk.bitbucket.io/pro_soft_dev/index.html
