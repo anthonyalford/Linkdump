@@ -1,6 +1,7 @@
 # Linkdump
 
 ## Serverless
+* https://rise.cs.berkeley.edu/blog/a-berkeley-view-on-serverless-computing/
 * https://fmlnerd.com/2016/08/16/30k-page-views-for-0-21-a-serverless-story/
 * https://aws.amazon.com/blogs/developer/preview-the-python-serverless-microframework-for-aws/
 * https://medium.com/@tjholowaychuk/introducing-apex-800824ffaa70#.zg5xppjln
@@ -360,6 +361,7 @@ https://github.com/minodes/pynb
 * https://training.kalzumeus.com/newsletters/archive/consulting_1?HN_repost
 
 ## Life
+* https://blog.usejournal.com/calendar-in-stead-of-to-do-lists-9ada86a512dd
 * https://kottke.org/18/02/how-to-get-yourself-out-of-a-funk
 * http://www.sciencedirect.com/science/article/pii/S004269890900282X
 * http://www.glassesoff.com/
