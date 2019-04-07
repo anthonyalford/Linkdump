@@ -145,11 +145,12 @@
 
 
 ## Jupyter
-https://nextjournal.com/schmudde/how-to-version-control-jupyter
-https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks
-https://github.com/jupyter/nbdime
-https://github.com/mwouts/jupytext
-https://github.com/minodes/pynb
+* https://github.com/elehcimd/nb2md
+* https://nextjournal.com/schmudde/how-to-version-control-jupyter
+* https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks
+* https://github.com/jupyter/nbdime
+* https://github.com/mwouts/jupytext
+* https://github.com/minodes/pynb
 
 
 ## Books/Resources/Tools
