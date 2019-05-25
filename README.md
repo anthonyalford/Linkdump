@@ -223,6 +223,8 @@
 * http://hubpress.io/
 
 ## TensorFlow/Deep
+* https://jaan.io/what-is-variational-autoencoder-vae-tutorial/
+* https://medium.com/@giacaglia/transformers-141e32e69591
 * https://hanxiao.github.io/2018/01/10/Build-Cross-Lingual-End-to-End-Product-Search-using-Tensorflow/
 * https://aws.amazon.com/blogs/machine-learning/zocdoc-builds-patient-confidence-using-tensorflow-on-aws/
 * https://medium.com/@aldamiz/how-we-grew-from-0-to-4-million-women-on-our-fashion-app-with-a-vertical-machine-learning-approach-f8b7fc0a89d7
