@@ -1,5 +1,9 @@
 # Linkdump
 
+## News Sources
+* https://www.kdnuggets.com/
+* https://jack-clark.net/
+
 ## Serverless
 * https://rise.cs.berkeley.edu/blog/a-berkeley-view-on-serverless-computing/
 * https://fmlnerd.com/2016/08/16/30k-page-views-for-0-21-a-serverless-story/
