@@ -227,6 +227,10 @@
 * http://hubpress.io/
 
 ## TensorFlow/Deep
+* https://blog.floydhub.com/attention-mechanism/
+* https://github.com/minimaxir/ctrl-gce
+* https://minimaxir.com/2019/09/howto-gpt2/
+* https://nanonets.com/blog/attention-ocr-for-text-recogntion/
 * https://jaan.io/what-is-variational-autoencoder-vae-tutorial/
 * https://medium.com/@giacaglia/transformers-141e32e69591
 * https://hanxiao.github.io/2018/01/10/Build-Cross-Lingual-End-to-End-Product-Search-using-Tensorflow/
