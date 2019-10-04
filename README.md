@@ -82,6 +82,7 @@
 * http://fastml.com/bayesian-machine-learning/
 
 ## General ML
+* https://martinfowler.com/articles/cd4ml.html
 * http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html
 * https://github.com/likedan/Awesome-CoreML-Models
 * https://jeffersonheard.github.io/2017/01/being-a-data-scientist-my-experience-and-toolset/
