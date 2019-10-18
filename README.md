@@ -319,6 +319,7 @@
 * https://www.gainsight.com/2017/08/04/ceos-guide-measuring-customers/
 
 ## Work
+* https://www.kartar.net/2019/03/building-your-first-product-road-map/
 * https://www.divio.com/blog/documentation/
 * https://queue.acm.org/detail.cfm?id=3197520
 * https://www.fivecastfinancial.com/guides/financial-modeling-for-startups-an-introduction/
