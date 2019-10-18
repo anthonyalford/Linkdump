@@ -114,6 +114,7 @@
 
 
 ## Music
+* https://towardsdatascience.com/creating-a-pop-music-generator-with-the-transformer-5867511b382a
 * https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8
 * http://polygraph.cool/history/
 * http://www.benfrederickson.com/matrix-factorization/
@@ -270,6 +271,7 @@
 * https://scottlocklin.wordpress.com/2016/12/05/predicting-with-confidence-the-best-machine-learning-idea-you-never-heard-of/
 
 ## Reinforcement Learning
+* https://medium.com/riselab/functional-rl-with-keras-and-tensorflow-eager-7973f81d6345
 * https://github.com/suragnair/alpha-zero-general
 * https://davidbarber.github.io/blog/2017/11/07/Learning-From-Scratch-by-Thinking-Fast-and-Slow-with-Deep-Learning-and-Tree-Search/
 * https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188
@@ -317,6 +319,8 @@
 * https://www.gainsight.com/2017/08/04/ceos-guide-measuring-customers/
 
 ## Work
+* https://www.divio.com/blog/documentation/
+* https://queue.acm.org/detail.cfm?id=3197520
 * https://www.fivecastfinancial.com/guides/financial-modeling-for-startups-an-introduction/
 * https://news.ycombinator.com/item?id=16922538
 * https://threadreaderapp.com/thread/1002103360646823936.html
