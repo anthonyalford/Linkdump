@@ -160,6 +160,7 @@
 
 
 ## Books/Resources/Tools
+* https://chartio.com/blog/cloud-data-management-book-launch/
 * http://themlbook.com/wiki/doku.php
 * https://mixmastamyk.bitbucket.io/pro_soft_dev/index.html
 * https://paperswithcode.com/
