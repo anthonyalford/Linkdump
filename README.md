@@ -13,6 +13,7 @@
 * http://serverless.com/
 
 ## Chat Bots
+* https://github.com/vitorverasm/slackbot-iot
 * http://blog.zikes.me/post/how-i-ruined-office-productivity-with-a-slack-bot/
 * https://github.com/idoco/intergram
 * https://github.com/botpress/botpress
