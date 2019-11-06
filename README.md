@@ -161,6 +161,7 @@
 
 
 ## Books/Resources/Tools
+* https://www.kdnuggets.com/2019/11/10-free-must-read-books-ai.html
 * https://chartio.com/blog/cloud-data-management-book-launch/
 * http://themlbook.com/wiki/doku.php
 * https://mixmastamyk.bitbucket.io/pro_soft_dev/index.html
