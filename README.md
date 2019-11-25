@@ -3,6 +3,7 @@
 ## News Sources
 * https://www.kdnuggets.com/
 * https://jack-clark.net/
+* https://aisc.ai.science/
 
 ## Serverless
 * https://rise.cs.berkeley.edu/blog/a-berkeley-view-on-serverless-computing/
