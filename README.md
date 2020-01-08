@@ -233,6 +233,7 @@
 * http://hubpress.io/
 
 ## TensorFlow/Deep
+* https://www.cunicode.com/works/confusing-coleopterists/#StyleGAN
 * https://blog.floydhub.com/attention-mechanism/
 * https://github.com/minimaxir/ctrl-gce
 * https://minimaxir.com/2019/09/howto-gpt2/
