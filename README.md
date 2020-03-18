@@ -339,7 +339,7 @@
 * https://zwischenzugs.com/2017/12/18/project-management-as-code-with-graphviz/
 * https://medium.com/javascript-scene/how-one-jira-ticket-made-my-employer-1mm-month-7-metrics-that-actually-matter-ffb5b2376a6b
 * https://mldatageek.herokuapp.com/questions/tags:amazon/
-* https://insimpleterms.blog/2017/08/07/the-tech-leads-new-project-checklist/
+* https://insimpleterms.blog/the-tech-leads-new-project-checklist
 * https://itsyourturnblog.com/introductory-bullshit-detection-for-non-technical-managers-7c7a9e54afee
 * http://blog.triplebyte.com/how-to-interview-engineers
 * https://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto
