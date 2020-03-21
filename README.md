@@ -163,6 +163,7 @@
 
 
 ## Books/Resources/Tools
+* https://www.kdnuggets.com/2020/03/50-must-read-free-books-every-data-scientist-2020.html
 * https://www.kdnuggets.com/2019/11/10-free-must-read-books-ai.html
 * https://chartio.com/blog/cloud-data-management-book-launch/
 * http://themlbook.com/wiki/doku.php
