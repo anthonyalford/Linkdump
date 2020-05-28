@@ -84,6 +84,8 @@
 * http://fastml.com/bayesian-machine-learning/
 
 ## General ML
+* https://graphdeeplearning.github.io/post/transformers-are-gnns/
+* https://deepai.org/publication/a-review-on-generative-adversarial-networks-algorithms-theory-and-applications
 * https://martinfowler.com/articles/cd4ml.html
 * http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html
 * https://github.com/likedan/Awesome-CoreML-Models
@@ -297,6 +299,7 @@
 * https://segment.com/blog/secure-access-to-100-aws-accounts/
 
 ## Mgmt
+* https://github.com/veeral-patel/awesome-risk-quantification
 * https://circleci.com/blog/what-we-ve-learned-about-hiring-engineering-managers/
 * https://queue.acm.org/detail.cfm?id=3308563
 * http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course
