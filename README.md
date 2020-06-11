@@ -299,6 +299,7 @@
 * https://segment.com/blog/secure-access-to-100-aws-accounts/
 
 ## Mgmt
+* https://www.atlassian.com/blog/teamwork/virtual-team-building-activities-remote-teams
 * https://github.com/veeral-patel/awesome-risk-quantification
 * https://circleci.com/blog/what-we-ve-learned-about-hiring-engineering-managers/
 * https://queue.acm.org/detail.cfm?id=3308563
