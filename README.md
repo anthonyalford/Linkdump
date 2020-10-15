@@ -119,6 +119,7 @@
 
 
 ## Music
+* https://source-separation.github.io/tutorial/landing.html
 * https://github.com/deezer/spleeter
 * https://towardsdatascience.com/creating-a-pop-music-generator-with-the-transformer-5867511b382a
 * https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8
