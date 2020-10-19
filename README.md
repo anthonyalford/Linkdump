@@ -391,6 +391,7 @@
 * https://training.kalzumeus.com/newsletters/archive/consulting_1?HN_repost
 
 ## Life
+* https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life
 * https://blog.usejournal.com/calendar-in-stead-of-to-do-lists-9ada86a512dd
 * https://kottke.org/18/02/how-to-get-yourself-out-of-a-funk
 * http://www.sciencedirect.com/science/article/pii/S004269890900282X
