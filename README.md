@@ -84,6 +84,7 @@
 * http://fastml.com/bayesian-machine-learning/
 
 ## General ML
+* https://i.am.ai/roadmap/#introduction
 * https://github.com/alirezadir/Production-Level-Deep-Learning
 * https://graphdeeplearning.github.io/post/transformers-are-gnns/
 * https://deepai.org/publication/a-review-on-generative-adversarial-networks-algorithms-theory-and-applications
