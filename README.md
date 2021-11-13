@@ -168,6 +168,10 @@
 
 
 ## Books/Resources/Tools
+* https://deepai.org/guide/best-machine-learning-and-data-science-books
+* https://github.com/GokuMohandas/MadeWithML
+* https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1938081
+* https://news.columbia.edu/news/top-10-ideas-statistics-ai
 * https://www.kdnuggets.com/2020/03/50-must-read-free-books-every-data-scientist-2020.html
 * https://www.kdnuggets.com/2019/11/10-free-must-read-books-ai.html
 * https://chartio.com/blog/cloud-data-management-book-launch/
